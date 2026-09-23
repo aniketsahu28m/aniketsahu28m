@@ -6,11 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniketsahu28m&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/aniketsahu28m?tab=followers"><img src="https://img.shields.io/github/followers/aniketsahu28m?label=Followers&style=flat&color=0e75b6" alt="followers" /></a>
-</p>
-
 ---
 
 ## About Me:
