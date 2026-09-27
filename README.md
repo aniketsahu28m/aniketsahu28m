@@ -135,16 +135,32 @@ I track all my merged PRs to other projects on a dedicated page, auto-updated da
 ## GitHub Stats:
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aniketsahu28m&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsahu28m&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <a href="https://github.com/aniketsahu28m">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=aniketsahu28m&show_icons=true&include_all_commits=true&rank_icon=github&show=prs_merged&theme=dark_github&hide_border=true" />
+      <img height="180" src="https://github-stats-extended.vercel.app/api?username=aniketsahu28m&show_icons=true&include_all_commits=true&rank_icon=github&show=prs_merged&theme=light_github&hide_border=true" alt="GitHub stats" />
+    </picture>
+  </a>
+  <a href="https://github.com/aniketsahu28m?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=aniketsahu28m&layout=compact&langs_count=8&theme=dark_github&hide_border=true" />
+      <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aniketsahu28m&layout=compact&langs_count=8&theme=light_github&hide_border=true" alt="Top languages" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aniketsahu28m&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aniketsahu28m&theme=github-dark-blue&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=aniketsahu28m&theme=default&hide_border=true" alt="GitHub streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsahu28m&theme=github-compact&hide_border=true&bg_color=0d1117" alt="Contribution graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketsahu28m/aniketsahu28m/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/aniketsahu28m/aniketsahu28m/output/github-snake.svg" alt="Contribution snake" width="100%" />
+  </picture>
 </p>
 
 ---
